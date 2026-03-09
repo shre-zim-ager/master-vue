@@ -30,3 +30,5 @@ A: See the Contributing section above.
 ## Future Plans
 - Expand the tutorial section with more advanced topics.
 - Include more examples of real-world applications using Vue.js.
+- Create a dedicated section for Vue 3 features and improvements.
+- Add video tutorials for visual learners.
